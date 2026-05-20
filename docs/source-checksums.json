@@ -1,0 +1,14 @@
+{
+  "app": {
+    "source_file": "parallel-app-v5 (1)(1).html",
+    "bytes": 116663,
+    "lines": 2012,
+    "sha256": "28fca79d098d95e2707db2c34d54c485bca57e7187b5f9d0eae5cdcecff2cfc7"
+  },
+  "studio": {
+    "source_file": "parallel-studio(1).html",
+    "bytes": 124208,
+    "lines": 2293,
+    "sha256": "35ed3c4b7999446623b9c40c0d1e75aa89ad16fd0e2bb6420526e37aeb16e848"
+  }
+}
