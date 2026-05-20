@@ -1,0 +1,1 @@
+.glass-card{background:var(--card);border:1px solid var(--glass);box-shadow:var(--sh-glass),var(--sh);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);}
