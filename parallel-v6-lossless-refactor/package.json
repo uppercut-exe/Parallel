@@ -1,0 +1,13 @@
+{
+  "name": "parallel-v6-lossless-refactor",
+  "version": "6.0.0-lossless",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "verify:lossless": "node tools/verify-lossless.mjs"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
+}
